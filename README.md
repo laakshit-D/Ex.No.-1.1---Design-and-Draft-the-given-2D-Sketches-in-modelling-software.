@@ -18,11 +18,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+<img height=50% width=50% src="https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png">
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+<img height=50% width=50% src="https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png">
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
@@ -36,11 +36,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## SKETCHS
 
-<img height=70% width=70% src="https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png">
+<img height=40% width=50% src="https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png">
 
 ## OUTPUT
 
-<img height=70% width=70% src="https://user-images.githubusercontent.com/119559976/226528932-f95bcafe-fffd-44bb-9d15-ee37752b5fc1.jpg">
+<img height=60% width=70% src="https://user-images.githubusercontent.com/119559976/226528932-f95bcafe-fffd-44bb-9d15-ee37752b5fc1.jpg">
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
