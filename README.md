@@ -37,13 +37,13 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
-
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
+<img height=50% width=50% src="https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png">
 
 ## OUTPUT
-![Laakshit D_Ex_1 1_page-0001](https://user-images.githubusercontent.com/119559976/226528932-f95bcafe-fffd-44bb-9d15-ee37752b5fc1.jpg)
 
+<img height=70% width=70% src="https://user-images.githubusercontent.com/119559976/226528932-f95bcafe-fffd-44bb-9d15-ee37752b5fc1.jpg">
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
